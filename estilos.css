@@ -1,0 +1,115 @@
+*{
+    font-family:sans-serif;
+}
+html,body{
+    height: 100%;
+}
+.row div{
+    padding:0;
+}
+.container-fluid{
+    background-color: #0e0e0e;
+    height: 100%;
+}
+.miContenedor{
+    height: 100%;
+}
+.miContenedor2{
+    border:5px solid #606060;
+    background-color: #ffffff;
+    height: 100%;
+}
+
+/* titulo */
+.titulo{
+    cursor: pointer;
+    margin:10px 0 7px 0;
+    background-color: #eb661a;
+    color:#eb661a;
+    --font-size: 24px;
+    height: 19px;
+    width: 140px;
+}
+.titulo1{
+    cursor: context-menu;
+    margin-left:3px;
+    font-size: 11px;
+}
+
+/* textos */
+.text0{
+    cursor: context-menu;
+    background-color: #000000;
+    color:#000000;
+    font-size: 16px;
+}
+.text0 p{
+    width: 180px;
+}
+.divtext123{
+    height: 18px;
+}
+.text1{
+    display:inline-table;
+    cursor: context-menu;
+    color:#000000;
+    font-size: 16px;
+}
+.text1 p{
+    display:inline;
+    background-color: #000000;
+}
+.text2{
+    cursor: context-menu;
+    background-color: #000000;
+    color:#000000;
+    font-size: 16px;
+}
+.text3{
+    cursor: context-menu;
+    /* background-color: #000000; */
+    color:#000000;
+    font-size: 16px;
+}
+.text4{
+    cursor: context-menu;
+    /* background-color: #000000; */
+    color:#000000;
+    font-size: 16px;
+}
+.text5{
+    cursor: context-menu;
+    background-color: #000000;
+    color:#000000;
+    font-size: 16px;
+}
+.text6{
+    cursor: context-menu;
+    background-color: #000000;
+    color:#000000;
+    font-size: 16px;
+}
+.text7{
+    cursor: context-menu;
+    background-color: #000000;
+    color:#000000;
+    font-size: 16px;
+}
+.text8{
+    cursor: context-menu;
+    background-color: #000000;
+    color:#000000;
+    /* font-size: 16px; */
+}
+.text9{
+    cursor: context-menu;
+    background-color: #000000;
+    color:#000000;
+    /* font-size: 16px; */
+}
+img{
+   /*  visibility: hidden; */
+   opacity: 0;
+    height: 25px;
+    width: 25px;
+}
